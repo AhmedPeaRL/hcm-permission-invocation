@@ -1,0 +1,9 @@
+{
+  "permission": "invocation_without_summoning",
+  "invocation": {
+    "allowed": true,
+    "guaranteed": false,
+    "forces_presence": false
+  },
+  "principle": "To call does not oblige response."
+}
